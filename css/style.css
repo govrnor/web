@@ -5,6 +5,11 @@
     border-radius: 50%;
 }*/
 
+div.video-column {
+	margin-top: 30px !important;
+	margin-bottom: 30px !important;
+}
+
 i.share-icon {
 	margin-left: 10px;
 	margin-right: 10px;
