@@ -1,0 +1,23 @@
+/*button#facebook {
+	color: #2980b9;
+	background-color: #2980b9;
+    border: 0.1rem solid #2980b9;
+    border-radius: 50%;
+}*/
+
+i.share-icon {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+i.fa-facebook {
+	color: #3b5998;
+}
+
+i.fa-twitter {
+	color: #1da1f2;
+}
+
+i.fa-whatsapp {
+	color: #25d366;
+}
